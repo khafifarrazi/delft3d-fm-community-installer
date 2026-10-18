@@ -1,0 +1,27 @@
+Delft3D Flexible Mesh Suite - Community Packaging License Notice
+
+1. Community Packaging & Installer Scripts:
+   Copyright (c) 2026 Delft3D Community Contributors.
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, subject to the following conditions:
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. Delft3D Simulation Engines & Software Core:
+   Copyright (C) Stichting Deltares, Delft, The Netherlands.
+   The numerical simulation engines of Delft3D are licensed under the
+   GNU General Public License (GPL) version 3.0 or GNU Affero General Public
+   License (AGPL) version 3.0 as published by the Free Software Foundation.
+   Full license texts can be inspected at:
+   https://www.gnu.org/licenses/gpl-3.0.html
+   https://www.gnu.org/licenses/agpl-3.0.html
+   and the official Deltares repository:
+   https://github.com/Deltares/Delft3D
+
+3. DeltaShell GUI:
+   Distributed under the Deltares Open Source Community License Agreement.
+   Free for community, educational, and research use upon registration at
+   https://download.deltares.nl/

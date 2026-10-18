@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this community packaging or Delft3D Flexible Mesh in your research, please cite both Deltares and this distribution as follows."
+title: "Delft3D Flexible Mesh Suite: Community All-in-One Windows Installer"
+version: 2026.02
+date-released: 2026-10-18
+url: "https://github.com/Deltares/Delft3D"
+repository-code: "https://github.com/Deltares/Delft3D"
+authors:
+  - name: "Deltares Delft3D Community & Contributors"
+preferred-citation:
+  type: manual
+  authors:
+    - name: "Stichting Deltares"
+  title: "Delft3D Flexible Mesh Suite: 1D-2D-3D Integrated Hydrodynamic, Wave, Water Quality and Morphology Modelling System"
+  year: 2026
+  publisher:
+    name: "Deltares"
+    address: "Delft, The Netherlands"
+  url: "https://www.deltares.nl/en/software-and-data/products/delft3d-flexible-mesh-suite"
